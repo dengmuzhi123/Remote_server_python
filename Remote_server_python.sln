@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Remote_server_python", "Remote_server_python.pyproj", "{77175660-0D59-40C2-8AA1-5DC9BCC0F28E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77175660-0D59-40C2-8AA1-5DC9BCC0F28E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77175660-0D59-40C2-8AA1-5DC9BCC0F28E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13F6C6EC-C9FB-4E1B-85D4-F0642B1D57EF}
+	EndGlobalSection
+EndGlobal

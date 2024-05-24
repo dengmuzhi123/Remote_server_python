@@ -37,4 +37,4 @@ os_name = ssh_connect_and_get_os(ip, username, password)
 
 print("The server's operating system is:", os_name)
 
-input()    
+
